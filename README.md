@@ -21,9 +21,3 @@ python bingo_roulette.py
 ```
 
 ※ 必ず `bingo_roulette.py` と `sozai` フォルダを同じディレクトリに置いてください。
-
-## 開発者
-藤田 康平（Kohei Fujita）
-
-
-※ 本リポジトリのソースコードおよび素材は、就職活動用ポートフォリオの一環として公開しています。
